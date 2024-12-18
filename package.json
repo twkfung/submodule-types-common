@@ -1,0 +1,25 @@
+{
+  "name": "types",
+  "version": "0.0.0",
+  "description": "A Git submodule for provisioning of common types.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/twkfung/submod-types-common.git"
+  },
+  "keywords": [
+    "types"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twkfung/submod-types-common/issues"
+  },
+  "homepage": "https://github.com/twkfung/submod-types-common#readme",
+  "dependencies": {
+    "zod": "^3.24.1"
+  }
+}
