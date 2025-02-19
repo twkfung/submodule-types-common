@@ -21,5 +21,11 @@
   "homepage": "https://github.com/twkfung/submod-types-common#readme",
   "dependencies": {
     "zod": "^3.24.1"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "jsxSingleQuote": false,
+    "tabWidth": 2,
+    "semi": false
   }
 }

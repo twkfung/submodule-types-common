@@ -1,4 +1,4 @@
-import { z } from "zod"
+import { z } from 'zod'
 
 const JsonPrimitive = z.union([z.string(), z.number(), z.boolean(), z.null()])
 // type JsonPrimitive = z.infer<typeof JsonPrimitive>
