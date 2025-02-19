@@ -1,6 +1,6 @@
 {
   "name": "types",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Git submodule for provisioning of common types.",
   "main": "index.ts",
   "scripts": {
